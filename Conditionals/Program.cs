@@ -49,16 +49,14 @@ namespace Conditionals
             {
                 Console.WriteLine("Number is less than 0 or greater than 200");
             }
-            -------------------------------------------------------------
-
+         
+            Console.ReadLine();
         }
+        
 
     }
 
 }
-Console.ReadLine();
-        }
 
-}
-}
+    
 
